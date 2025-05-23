@@ -24,3 +24,4 @@ A simple web app that checks the strength of a password in real-time using JavaS
 
 ## 📃 License
 MIT
+
